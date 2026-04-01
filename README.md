@@ -1,5 +1,6 @@
 # Hi, I'm Tom.
-(he/him)
+
+Henrich, pronounced HEN-ritch. (he/him)
 
 I'm a web content manager in Denver, Colorado.
 
